@@ -10,7 +10,7 @@
 This repository contains solutions for both tasks assigned by Globussoft.
 
 ---
-## NOTE: I have also added the required comments in the code for better understanding
+I have also added the required comments in the code for better understanding
 
 ## Task 1 — Amazon.in Web Scraper
 
