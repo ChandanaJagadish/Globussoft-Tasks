@@ -1,7 +1,7 @@
 # Globussoft Assignment Submission
 
 **Name:** Chandana Jagadish 
-**Date:** April 2026
+**Date:** 22nd April 2026
 
 ---
 
@@ -10,6 +10,7 @@
 This repository contains solutions for both tasks assigned by Globussoft.
 
 ---
+I have also added the required comments in the code for better understanding
 
 ## Task 1 — Amazon.in Web Scraper
 
@@ -105,9 +106,9 @@ The `sample_images/` folder contains test face images you can use to try the API
 ## Repo Structure
 
 ```
-├── task1/
+├── Task 1-Amazon web scraping/
 │   └── amazon_scraper.py
-├── task2/
+├── Task 2-Face authentication/
 │   ├── train.py
 │   └── face_auth.py
 ├── sample_images/
