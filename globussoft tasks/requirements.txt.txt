@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+deepface
+opencv-python
+numpy
+python-multipart
+tf-keras
+pillow
+requests
+pandas
+beautifulsoup4
